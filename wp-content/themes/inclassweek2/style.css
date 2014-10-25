@@ -1,0 +1,55 @@
+/*
+    Theme Name:     J2-Simple Child
+    Template:       j2-simple
+*/
+    
+/* =Theme customization starts here
+-----------------------------------------------------------------------------------------------------*/
+@import url('../j2-simple/style.css');
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+  font-family: 'Open Sans', sans-serif; 
+  background: none;
+  background-color: #900;
+
+}
+.rap {
+  background: none;
+  background-color: #900;
+}
+.content {
+  width: 100%;
+  background-color: #300;
+}
+p {
+  line-height: 2em;
+}
+a {
+  color: #990;
+  font-weight: bold;
+}
+
+
+.menu li a {
+  color: #990;
+}
+
+.rss a {
+  color:#990;
+}
+.sidebar {
+width: 100%;
+}
+.sidebar ul {
+
+  height: 100px;
+}
+.sidebar ul li {
+  box-sizing: border-box;
+  float: left;
+  width: 50%;
+}
+.sidebar #search-2 {
+ width: 100%;
+}
