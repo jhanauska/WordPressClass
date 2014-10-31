@@ -1,11 +1,11 @@
 /*
-    Theme Name:     Twenty Ten Child
-    Template:       twentyten
+    Theme Name:     Twenty Twelve Child
+    Template:       twentytwelve
 */
     
 /* =Theme customization starts here
 -----------------------------------------------------------------------------------------------------*/
-@import url('../twentyten/style.css');
+@import url('../twentytwelve/style.css');
 
 #inclass {
     color: #900;
