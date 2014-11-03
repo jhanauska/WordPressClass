@@ -9,15 +9,15 @@ get_header(); ?>
 			<div id="content" role="main">
                 <div class="column">
                 <p><?php the_field('title'); ?></p>
-                <p><?php the_field('content_filed'); ?></p>
+                <p><?php the_field('content_field'); ?></p>
                 </div>
                 <div class="column">
                 <p><?php the_field('title'); ?></p>
-                <p><?php the_field('content_filed'); ?></p>
+                <p><?php the_field('content_field'); ?></p>
                 </div>
                 <div class="column">
                 <p><?php the_field('title'); ?></p>
-                <p><?php the_field('content_filed'); ?></p>
+                <p><?php the_field('content_field'); ?></p>
                 </div>
 			</div><!-- #content -->
 		</div><!-- #container -->
