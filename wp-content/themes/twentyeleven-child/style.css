@@ -1,32 +1,8 @@
 /*
-    Theme Name:     Twenty Twelve Child
-    Template:       twentytwelve
+    Theme Name:     Twenty Eleven Child
+    Template:       twentyeleven
 */
     
 /* =Theme customization starts here
 -----------------------------------------------------------------------------------------------------*/
-@import url('../twentytwelve/style.css');
-
-#inclass {
-    color: #900;
-    font-weight: bold;
-    text-decoration: underline;
-}
-#inclass2a {
-    color: #909;
-    font-size: 2em;
-    font-family: fantasy;
-    font-weight: bold;
-}
-#inclass2b {
-    color: #F90;
-    font-family: sans-serif;
-}
-#inclass2c {
-    color: #099;
-    font-family:sans-serif;
-}
-#inclass2d {
-    box-shadow: 3px 3px 5px 6px #ccc;
-}
-
+@import url('../twentyeleven/style.css');
