@@ -1,14 +1,10 @@
 <?php 
 get_header(); ?>
-  <div class="subTitle">
-    <p><?php the_field('sub_title'); ?></p>
-  </div>
-  <div class="introContent">
-    <p><?php the_field('intro_content'); ?></p>
-  </div>
-  <?php if(have_posts()) : while (have_posts()) : the_post(); ?>
 
+  <?php if(have_posts()) : while (have_posts()) : the_post(); ?>
     <h1><?php the_title(); ?></h1>
+    <h2 class="subTitle"><?php the_field('sub_title'); ?></p>
+    <p class="introContent"><?php the_field('intro_content'); ?></p>
     <?php the_content(); ?>
   
   <?php endwhile; endif; ?>
