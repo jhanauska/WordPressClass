@@ -1,6 +1,6 @@
 <?php 
 /*
-* Template Name: Custom Fields Template
+* Template Name: Midterm Content and Sidebar Template
 */
 
 get_header(); ?>

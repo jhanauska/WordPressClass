@@ -1,6 +1,6 @@
 <?php 
 /*
-* Template Name: Custom Fields Template
+* Template Name: Midterm Three Column Template
 */
 
 get_header(); ?>
