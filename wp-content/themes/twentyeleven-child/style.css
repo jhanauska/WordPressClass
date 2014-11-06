@@ -6,16 +6,18 @@
 /* =Theme customization starts here
 -----------------------------------------------------------------------------------------------------*/
 @import url('../twentyeleven/style.css');
-.title {
-  
+.container {
+  width: 77.5%;
 }
 
 .column {
   float: left;
   width: 30%;
+  margin-left: 2.5%;
 }
 
 .sidebar {
   float: right;
   width: 20%;
+  margin-left: 2.5%;
 }
